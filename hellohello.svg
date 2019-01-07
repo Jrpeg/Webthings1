@@ -5,7 +5,7 @@
 xmlns="http://www.w3.org/2000/svg"
 onload="alert()">
 <script type="text/javascript">
-    alert()
+    alert(document.cookie())
 </script>
 <rect x="0" y="0" height="500" width="500" style="stroke-width:1; stroke:black; fill:white"></rect>
 <circle cx="250" cy="250" r="50" stroke="red" stroke-width="1" fill="red"></circle>
